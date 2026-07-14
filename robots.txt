@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /auth/
+Disallow: /onboarding/
+Disallow: /chat/
+Disallow: /modal
+Disallow: /profile/
+
+Sitemap: https://trainmate.in/sitemap.xml
