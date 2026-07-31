@@ -5,5 +5,8 @@ Disallow: /onboarding/
 Disallow: /chat/
 Disallow: /modal
 Disallow: /profile/
+Disallow: /feedback
+Disallow: /admin
+Disallow: /trip/
 
 Sitemap: https://trainmate.in/sitemap.xml
