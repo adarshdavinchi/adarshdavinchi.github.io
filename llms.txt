@@ -21,6 +21,11 @@ TrainMate is a free Android app that helps Indian Railways passengers find verif
 - [Download on Google Play](https://play.google.com/store/apps/details?id=com.adarshdavinchi.trainmate)
 
 ## Blog Articles
+- [Tatkal Ticket Booking: Rules, Timings, Charges & Confirmation Hacks](https://trainmate.in/blog/tatkal-ticket-booking-guide)
+- [Vande Bharat Express Complete Guide: Routes, Food Menu, Luggage & Seat Rules](https://trainmate.in/blog/vande-bharat-express-guide)
+- [How to Survive & Enjoy a 24-Hour Train Journey](https://trainmate.in/blog/long-train-journey-timepass-guide)
+- [TrainMate AI: 24/7 Smart Copilot for Indian Railways](https://trainmate.in/blog/trainmate-ai-railway-companion-guide)
+- [Incognito Mode & Profile Privacy Guide](https://trainmate.in/blog/privacy-and-incognito-mode-guide)
 - [How to Find Travel Companions on Indian Trains](https://trainmate.in/blog/find-travel-companions)
 - [Smart In-App Chat Guide for Train Passengers](https://trainmate.in/blog/smart-in-app-chat-guide)
 - [Complete PNR Status Guide for Indian Railways](https://trainmate.in/blog/pnr-status-guide)
