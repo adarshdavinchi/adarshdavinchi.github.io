@@ -31,6 +31,8 @@ TrainMate is a free Android app that helps Indian Railways passengers find verif
 - [Complete PNR Status Guide for Indian Railways](https://trainmate.in/blog/pnr-status-guide)
 - [Train Travel Safety Tips for Indian Railways](https://trainmate.in/blog/train-travel-safety-tips)
 - [Best Train Travel Apps in India](https://trainmate.in/blog/best-train-travel-apps)
+- [How to Split Cabs & Autos at Indian Railway Stations: Safe Night & Morning Arrivals](https://trainmate.in/blog/station-cab-sharing-guide)
+- [IRCTC Executive Lounges & Station Waiting Rooms: Rates, Free Cards & Safe Co-Waiting](https://trainmate.in/blog/railway-station-lounges-layovers-guide)
 
 ## Frequently Asked Questions
 
