@@ -57,3 +57,7 @@ TrainMate covers all Indian Railways trains including Rajdhani, Shatabdi, Duront
 - Package: com.adarshdavinchi.trainmate
 - Category: Travel & Local
 - Price: Free
+- Support Email: support@trainmate.in
+- Legal & Grievance Officer: Legal & Grievance Cell, TrainMate (legal@trainmate.in)
+- Grievance Timeline: Acknowledgment within 24 hours, resolution within 15 days (IT Rules 2021)
+- Jurisdiction: Republic of India
