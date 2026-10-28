@@ -18,6 +18,7 @@ TrainMate is a free Android app that helps Indian Railways passengers find verif
 - [Contact & Support](https://trainmate.in/contact)
 - [Blog](https://trainmate.in/blog)
 - [Privacy Policy](https://trainmate.in/privacy-policy)
+- [Terms of Service](https://trainmate.in/terms)
 - [Download on Google Play](https://play.google.com/store/apps/details?id=com.adarshdavinchi.trainmate)
 
 ## Blog Articles
