@@ -32,9 +32,21 @@
   </url>
   <url>
     <loc>https://trainmate.in/blog</loc>
-    <lastmod>2026-08-01</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://trainmate.in/blog/irctc-waitlist-rules-and-auto-tracking-guide</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://trainmate.in/blog/train-chart-vacant-berths-guide</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://trainmate.in/blog/find-travel-companions</loc>
